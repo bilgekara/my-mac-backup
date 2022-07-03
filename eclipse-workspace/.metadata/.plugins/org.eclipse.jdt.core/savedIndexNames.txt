@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+/Users/bilgenurkara/eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core
+3790451582.index
+1865797976.index
+1117156908.index
+3585310571.index
