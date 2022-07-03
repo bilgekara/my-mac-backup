@@ -1,0 +1,2 @@
+﻿SERVICES
+    catalogAPI -> 5011

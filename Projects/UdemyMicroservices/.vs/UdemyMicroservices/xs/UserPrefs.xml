@@ -1,0 +1,61 @@
+﻿<Properties StartupConfiguration="{D9494E04-9E3B-41DA-89A6-2ECC1BD5747F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Services/Catalog/FreeCourse.Services.Catalog/appsettings.Development.json">
+    <Files>
+      <File FileName="IdentityServer/FreeCourse.IdentityServer/Startup.cs" Line="1" Column="1" />
+      <File FileName="IdentityServer/FreeCourse.IdentityServer/Program.cs" Line="1" Column="1" />
+      <File FileName="IdentityServer/FreeCourse.IdentityServer/Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="Services/Catalog/FreeCourse.Services.Catalog/appsettings.json" Line="1" Column="1" />
+      <File FileName="Services/Catalog/FreeCourse.Services.Catalog/appsettings.Development.json" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UdemyMicroservices" expanded="True">
+            <Node name="IdentityServer" expanded="True">
+              <Node name="FreeCourse.IdentityServer" expanded="True">
+                <Node name="Dependencies" expanded="True">
+                  <Node name="FrameworkReferences" expanded="True" />
+                </Node>
+                <Node name="Data" expanded="True" />
+                <Node name="Properties" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="Services" expanded="True">
+              <Node name="Catalog" expanded="True">
+                <Node name="FreeCourse.Services.Catalog" expanded="True" selected="True">
+                  <Node name="Dependencies" expanded="True">
+                    <Node name="FrameworkReferences" expanded="True" />
+                  </Node>
+                  <Node name="Properties" expanded="True" />
+                  <Node name="appsettings.json" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Services.Catalog.FreeCourse.Services.Catalog PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.IdentityServer.FreeCourse.IdentityServer PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint enabled="false" file="/Users/bilgenurkara/Projects/UdemyMicroservices/Services/Catalog/FreeCourse.Services.Catalog/Services/CourseService.cs" relfile="Services/Catalog/FreeCourse.Services.Catalog/Services/CourseService.cs" line="87" column="1" />
+      <Breakpoint enabled="false" file="/Users/bilgenurkara/Projects/UdemyMicroservices/Services/Catalog/FreeCourse.Services.Catalog/Controllers/CoursesController.cs" relfile="Services/Catalog/FreeCourse.Services.Catalog/Controllers/CoursesController.cs" line="61" column="1" />
+      <Breakpoint enabled="false" file="/Users/bilgenurkara/Projects/UdemyMicroservices/Services/Catalog/FreeCourse.Services.Catalog/Controllers/CoursesController.cs" relfile="Services/Catalog/FreeCourse.Services.Catalog/Controllers/CoursesController.cs" line="62" column="1" />
+      <Breakpoint enabled="false" file="/Users/bilgenurkara/Projects/UdemyMicroservices/Services/Catalog/FreeCourse.Services.Catalog/Services/CourseService.cs" relfile="Services/Catalog/FreeCourse.Services.Catalog/Services/CourseService.cs" line="96" column="1" />
+      <Breakpoint enabled="false" file="/Users/bilgenurkara/Projects/UdemyMicroservices/Services/Catalog/FreeCourse.Services.Catalog/Services/CourseService.cs" relfile="Services/Catalog/FreeCourse.Services.Catalog/Services/CourseService.cs" line="99" column="1" />
+      <Breakpoint enabled="false" file="/Users/bilgenurkara/Projects/UdemyMicroservices/Services/Catalog/FreeCourse.Services.Catalog/Services/CourseService.cs" relfile="Services/Catalog/FreeCourse.Services.Catalog/Services/CourseService.cs" line="101" column="1" />
+      <Breakpoint enabled="false" file="/Users/bilgenurkara/Projects/UdemyMicroservices/Services/Catalog/FreeCourse.Services.Catalog/Services/CourseService.cs" relfile="Services/Catalog/FreeCourse.Services.Catalog/Services/CourseService.cs" line="102" column="1" />
+      <Breakpoint enabled="false" file="/Users/bilgenurkara/Projects/UdemyMicroservices/Services/Catalog/FreeCourse.Services.Catalog/Services/CourseService.cs" relfile="Services/Catalog/FreeCourse.Services.Catalog/Services/CourseService.cs" line="103" column="1" />
+      <Breakpoint enabled="false" file="/Users/bilgenurkara/Projects/UdemyMicroservices/Services/Catalog/FreeCourse.Services.Catalog/Services/CourseService.cs" relfile="Services/Catalog/FreeCourse.Services.Catalog/Services/CourseService.cs" line="104" column="1" />
+      <Breakpoint file="/Users/bilgenurkara/Projects/UdemyMicroservices/Services/Catalog/FreeCourse.Services.Catalog/Services/CourseService.cs" relfile="Services/Catalog/FreeCourse.Services.Catalog/Services/CourseService.cs" line="106" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

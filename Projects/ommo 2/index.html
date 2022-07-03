@@ -1,0 +1,118 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Omma Weighted Playlist Challenge</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="style.css" type="text/css" />
+    
+</head>
+<body>
+
+    <div class="main">
+        <div class="header">
+            <div class="bolge1">
+                <h2>Playlist</h2>
+            </div>
+            <div class="bolge2">
+                <a href="generate.html"><button class="btn"><i class="fa fa-play"></i>Generate    </button></a>
+                <button class="btn" id="modal-ac" ><i class="fa fa-plus"></i>   Add New Item</button>
+            </div>
+        </div>
+        <div class="body">
+          
+            <div id="slideContainer" class="container">
+            </div>
+            <ul>
+                <li>Item1</li>
+                <li>Weight:5</li>
+                <li></li><li></li>
+                <li>            
+                    <button class="btns" id="modal-edit"><i class="fa fa-edit"></i></button>
+                    <button class="btns"><i class="fa fa-trash"></i></button>
+
+                </li>
+            </ul>
+
+
+            <!-- <div class="container">
+                <ul class="scroller">
+                  <li>Lorem, ipsum dolor.</li>
+                  <li>Fugiat, maxime atque?</li>
+                  <li>Repellendus, dolorum ut.</li>
+                  <li>Magnam, consequatur quis?</li>
+                  <li>Ipsa, culpa atque?</li>
+                  <li>Beatae, eius vero.</li>
+                  <li>Aperiam, magni excepturi?</li>
+                  <li>Quia, repellat sed.</li>
+                  <li>Quis, quasi id.</li>
+                  <li>Architecto, vitae placeat.</li>
+                  <li>Vero, eum distinctio.</li>
+                  <li>Impedit, officiis ratione?</li>
+                  <li>Minus, nisi reprehenderit.</li>
+                  <li>Aspernatur, tempore voluptas.</li>
+                  <li>Eos, perferendis fuga.</li>
+                  <li>Quasi, culpa itaque!</li>
+                  <li>Dolorum, odit quasi?</li>
+                  <li>Laborum, possimus exercitationem.</li>
+                  <li>Alias, sapiente molestias.</li>
+                  <li>Iusto, cupiditate non.</li>
+                  <li>Hic, commodi dicta!</li>
+                  <li>Atque, voluptatum repellendus!</li>
+                  <li>Est, maiores perferendis!</li>
+                  <li>Nesciunt, hic error.</li>
+                  <li>Iure, perspiciatis numquam?</li>
+                  <li>Distinctio, possimus accusamus?</li>
+                  <li>Laborum, autem asperiores!</li>
+                  <li>Sequi, alias accusamus!</li>
+                  <li>Voluptatem, nam ab!</li>
+                  <li>Officiis, ad est?</li>
+                  <li>Excepturi, laudantium animi.</li>
+                  <li>Vel, praesentium omnis.</li>
+                  <li>Dolore, voluptate pariatur?</li>
+                  <li>Iure, earum autem?</li>
+                  <li>Facilis, enim dolor.</li>
+                  <li>Illo, aspernatur. Vel!</li>
+                  <li>Optio, esse ad!</li>
+                  <li>Quasi, totam porro.</li>
+                  <li>Laborum, laboriosam exercitationem!</li>
+                  <li>Ratione, molestias est?</li>
+                  <li>Fugit, mollitia fugiat?</li>
+                  <li>Sequi, labore voluptatibus.</li>
+                  <li>Explicabo, qui. Pariatur!</li>
+                  <li>Laudantium, eligendi tempore!</li>
+                  <li>Ad, corporis cum.</li>
+                  <li>Dolorem, voluptates obcaecati.</li>
+                  <li>Rerum, hic facere?</li>
+                  <li>Eum, consequatur? Iusto!</li>
+                  <li>Sapiente, totam quasi?</li>
+                  <li>Ipsum, delectus quas.</li>
+                </ul>
+              </div> -->
+        </div>
+
+        <div class="modal">
+            <form id="editForm">
+              <h3 id="modal-kapat">x</h3>
+              <label for="name">Name</label>
+              <input type="text" name="name" id="txtAd"/>
+
+              <label for="url">Url</label>
+              <input type="text" name="url" id="url" placeholder="www." />
+              
+              <label>Weight</label>
+             
+                   <div id="RadialProgress">-</div>
+            <input type="range" value="2" min="0" max="10" />
+              <button type="submit" id="form-buton">Denemeyi baslat</button>
+            </form>
+        </div>
+    </div>
+    
+
+</body>
+
+<script type="text/javascript" src="deneme.js"></script>
+
+</html>

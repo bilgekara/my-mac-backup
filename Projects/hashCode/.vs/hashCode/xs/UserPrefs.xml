@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{9E5A8352-467D-40E7-883C-97AC34326210}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="hashCode/Program.cs">
+    <Files>
+      <File FileName="hashCode/Program.cs" Line="62" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="hashCode" expanded="True">
+            <Node name="hashCode" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.hashCode PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/bilgenurkara/Projects/hashCode/hashCode/Program.cs" relfile="hashCode/Program.cs" line="9" column="1" />
+      <Breakpoint file="/Users/bilgenurkara/Projects/hashCode/hashCode/Program.cs" relfile="hashCode/Program.cs" line="11" column="1" />
+      <Breakpoint file="/Users/bilgenurkara/Projects/hashCode/hashCode/Program.cs" relfile="hashCode/Program.cs" line="60" column="1" />
+      <Breakpoint file="/Users/bilgenurkara/Projects/hashCode/hashCode/Program.cs" relfile="hashCode/Program.cs" line="53" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

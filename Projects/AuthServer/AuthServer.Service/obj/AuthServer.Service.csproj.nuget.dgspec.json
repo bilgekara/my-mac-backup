@@ -1,0 +1,237 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/bilgenurkara/Projects/AuthServer/AuthServer.Service/AuthServer.Service.csproj": {}
+  },
+  "projects": {
+    "/Users/bilgenurkara/Projects/AuthServer/AuthServer.Core/AuthServer.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/bilgenurkara/Projects/AuthServer/AuthServer.Core/AuthServer.Core.csproj",
+        "projectName": "AuthServer.Core",
+        "projectPath": "/Users/bilgenurkara/Projects/AuthServer/AuthServer.Core/AuthServer.Core.csproj",
+        "packagesPath": "/Users/bilgenurkara/.nuget/packages/",
+        "outputPath": "/Users/bilgenurkara/Projects/AuthServer/AuthServer.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/bilgenurkara/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/bilgenurkara/Projects/AuthServer/SharedLibrary/SharedLibrary.csproj": {
+                "projectPath": "/Users/bilgenurkara/Projects/AuthServer/SharedLibrary/SharedLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/bilgenurkara/Projects/AuthServer/AuthServer.Data/AuthServer.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/bilgenurkara/Projects/AuthServer/AuthServer.Data/AuthServer.Data.csproj",
+        "projectName": "AuthServer.Data",
+        "projectPath": "/Users/bilgenurkara/Projects/AuthServer/AuthServer.Data/AuthServer.Data.csproj",
+        "packagesPath": "/Users/bilgenurkara/.nuget/packages/",
+        "outputPath": "/Users/bilgenurkara/Projects/AuthServer/AuthServer.Data/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/bilgenurkara/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/bilgenurkara/Projects/AuthServer/AuthServer.Core/AuthServer.Core.csproj": {
+                "projectPath": "/Users/bilgenurkara/Projects/AuthServer/AuthServer.Core/AuthServer.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/bilgenurkara/Projects/AuthServer/AuthServer.Service/AuthServer.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/bilgenurkara/Projects/AuthServer/AuthServer.Service/AuthServer.Service.csproj",
+        "projectName": "AuthServer.Service",
+        "projectPath": "/Users/bilgenurkara/Projects/AuthServer/AuthServer.Service/AuthServer.Service.csproj",
+        "packagesPath": "/Users/bilgenurkara/.nuget/packages/",
+        "outputPath": "/Users/bilgenurkara/Projects/AuthServer/AuthServer.Service/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/bilgenurkara/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/bilgenurkara/Projects/AuthServer/AuthServer.Data/AuthServer.Data.csproj": {
+                "projectPath": "/Users/bilgenurkara/Projects/AuthServer/AuthServer.Data/AuthServer.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/bilgenurkara/Projects/AuthServer/SharedLibrary/SharedLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/bilgenurkara/Projects/AuthServer/SharedLibrary/SharedLibrary.csproj",
+        "projectName": "SharedLibrary",
+        "projectPath": "/Users/bilgenurkara/Projects/AuthServer/SharedLibrary/SharedLibrary.csproj",
+        "packagesPath": "/Users/bilgenurkara/.nuget/packages/",
+        "outputPath": "/Users/bilgenurkara/Projects/AuthServer/SharedLibrary/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/bilgenurkara/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{BC469286-F11A-40BF-8DB2-7C3C4697CFA7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="P.I.Works/Program.cs">
+    <Files>
+      <File FileName="P.I.Works/Program.cs" Line="41" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="P.I.Works" expanded="True">
+            <Node name="P.I.Works" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.P.I.Works PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

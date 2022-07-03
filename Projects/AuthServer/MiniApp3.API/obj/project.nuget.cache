@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "G+xRl6UjmTasJwDh+2lMEfSd/t0+LqDJL8XutQzSzETm8blckHribolvTiMpkS2Ej6VMuOaSAcc/c0P5U6u1fQ==",
+  "success": true,
+  "projectFilePath": "/Users/bilgenurkara/Projects/AuthServer/MiniApp3.API/MiniApp3.API.csproj",
+  "expectedPackageFiles": [
+    "/Users/bilgenurkara/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/bilgenurkara/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/bilgenurkara/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/bilgenurkara/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/bilgenurkara/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/bilgenurkara/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+/Users/bilgenurkara/Projects/UdemyMicroservices/Shared/FreeCourse.Shared/bin/Debug/net6.0/FreeCourse.Shared.deps.json
+/Users/bilgenurkara/Projects/UdemyMicroservices/Shared/FreeCourse.Shared/bin/Debug/net6.0/FreeCourse.Shared.dll
+/Users/bilgenurkara/Projects/UdemyMicroservices/Shared/FreeCourse.Shared/bin/Debug/net6.0/ref/FreeCourse.Shared.dll
+/Users/bilgenurkara/Projects/UdemyMicroservices/Shared/FreeCourse.Shared/bin/Debug/net6.0/FreeCourse.Shared.pdb
+/Users/bilgenurkara/Projects/UdemyMicroservices/Shared/FreeCourse.Shared/obj/Debug/net6.0/FreeCourse.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bilgenurkara/Projects/UdemyMicroservices/Shared/FreeCourse.Shared/obj/Debug/net6.0/FreeCourse.Shared.AssemblyInfoInputs.cache
+/Users/bilgenurkara/Projects/UdemyMicroservices/Shared/FreeCourse.Shared/obj/Debug/net6.0/FreeCourse.Shared.AssemblyInfo.cs
+/Users/bilgenurkara/Projects/UdemyMicroservices/Shared/FreeCourse.Shared/obj/Debug/net6.0/FreeCourse.Shared.csproj.CoreCompileInputs.cache
+/Users/bilgenurkara/Projects/UdemyMicroservices/Shared/FreeCourse.Shared/obj/Debug/net6.0/FreeCourse.Shared.dll
+/Users/bilgenurkara/Projects/UdemyMicroservices/Shared/FreeCourse.Shared/obj/Debug/net6.0/ref/FreeCourse.Shared.dll
+/Users/bilgenurkara/Projects/UdemyMicroservices/Shared/FreeCourse.Shared/obj/Debug/net6.0/FreeCourse.Shared.pdb

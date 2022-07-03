@@ -1,0 +1,15 @@
+/Users/bilgenurkara/Projects/hashCode/hashCode/bin/Debug/net6.0/hashCode
+/Users/bilgenurkara/Projects/hashCode/hashCode/bin/Debug/net6.0/hashCode.deps.json
+/Users/bilgenurkara/Projects/hashCode/hashCode/bin/Debug/net6.0/hashCode.runtimeconfig.json
+/Users/bilgenurkara/Projects/hashCode/hashCode/bin/Debug/net6.0/hashCode.dll
+/Users/bilgenurkara/Projects/hashCode/hashCode/bin/Debug/net6.0/ref/hashCode.dll
+/Users/bilgenurkara/Projects/hashCode/hashCode/bin/Debug/net6.0/hashCode.pdb
+/Users/bilgenurkara/Projects/hashCode/hashCode/obj/Debug/net6.0/hashCode.csproj.AssemblyReference.cache
+/Users/bilgenurkara/Projects/hashCode/hashCode/obj/Debug/net6.0/hashCode.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bilgenurkara/Projects/hashCode/hashCode/obj/Debug/net6.0/hashCode.AssemblyInfoInputs.cache
+/Users/bilgenurkara/Projects/hashCode/hashCode/obj/Debug/net6.0/hashCode.AssemblyInfo.cs
+/Users/bilgenurkara/Projects/hashCode/hashCode/obj/Debug/net6.0/hashCode.csproj.CoreCompileInputs.cache
+/Users/bilgenurkara/Projects/hashCode/hashCode/obj/Debug/net6.0/hashCode.dll
+/Users/bilgenurkara/Projects/hashCode/hashCode/obj/Debug/net6.0/ref/hashCode.dll
+/Users/bilgenurkara/Projects/hashCode/hashCode/obj/Debug/net6.0/hashCode.pdb
+/Users/bilgenurkara/Projects/hashCode/hashCode/obj/Debug/net6.0/hashCode.genruntimeconfig.cache

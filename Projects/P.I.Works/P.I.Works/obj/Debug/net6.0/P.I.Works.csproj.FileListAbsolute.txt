@@ -1,0 +1,15 @@
+/Users/bilgenurkara/Projects/P.I.Works/P.I.Works/bin/Debug/net6.0/P.I.Works
+/Users/bilgenurkara/Projects/P.I.Works/P.I.Works/bin/Debug/net6.0/P.I.Works.deps.json
+/Users/bilgenurkara/Projects/P.I.Works/P.I.Works/bin/Debug/net6.0/P.I.Works.runtimeconfig.json
+/Users/bilgenurkara/Projects/P.I.Works/P.I.Works/bin/Debug/net6.0/P.I.Works.dll
+/Users/bilgenurkara/Projects/P.I.Works/P.I.Works/bin/Debug/net6.0/ref/P.I.Works.dll
+/Users/bilgenurkara/Projects/P.I.Works/P.I.Works/bin/Debug/net6.0/P.I.Works.pdb
+/Users/bilgenurkara/Projects/P.I.Works/P.I.Works/obj/Debug/net6.0/P.I.Works.csproj.AssemblyReference.cache
+/Users/bilgenurkara/Projects/P.I.Works/P.I.Works/obj/Debug/net6.0/P.I.Works.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bilgenurkara/Projects/P.I.Works/P.I.Works/obj/Debug/net6.0/P.I.Works.AssemblyInfoInputs.cache
+/Users/bilgenurkara/Projects/P.I.Works/P.I.Works/obj/Debug/net6.0/P.I.Works.AssemblyInfo.cs
+/Users/bilgenurkara/Projects/P.I.Works/P.I.Works/obj/Debug/net6.0/P.I.Works.csproj.CoreCompileInputs.cache
+/Users/bilgenurkara/Projects/P.I.Works/P.I.Works/obj/Debug/net6.0/P.I.Works.dll
+/Users/bilgenurkara/Projects/P.I.Works/P.I.Works/obj/Debug/net6.0/ref/P.I.Works.dll
+/Users/bilgenurkara/Projects/P.I.Works/P.I.Works/obj/Debug/net6.0/P.I.Works.pdb
+/Users/bilgenurkara/Projects/P.I.Works/P.I.Works/obj/Debug/net6.0/P.I.Works.genruntimeconfig.cache

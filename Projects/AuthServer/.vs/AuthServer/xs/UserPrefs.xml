@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{6AC89AC2-F493-4722-BA5E-E9F700F0B732}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AuthServer.Core/Dtos/ClientTokenDto.cs">
+    <Files>
+      <File FileName="AuthServer.Core/Dtos/TokenDto.cs" Line="7" Column="60" />
+      <File FileName="AuthServer.Core/Dtos/ClientTokenDto.cs" Line="11" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AuthServer" expanded="True">
+            <Node name="AuthServer.Core" expanded="True">
+              <Node name="Dtos" expanded="True">
+                <Node name="ClientTokenDto.cs" selected="True" />
+              </Node>
+              <Node name="Repositories" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.AuthServer.API PreferredExecutionTarget="/Applications/Safari.app" />
+</Properties>
